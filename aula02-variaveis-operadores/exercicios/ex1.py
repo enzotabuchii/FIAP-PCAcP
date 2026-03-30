@@ -5,6 +5,6 @@ como valor aproximado de π)
 
 pi = 3.14159
 raio = 5
-area = pi * (raio ** 2)
+area = pi * (raio**2)
 
 print(f"A área é de {int(area)}")
