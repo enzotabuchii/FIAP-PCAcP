@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ana",
+        "company": "FIAP",
+        "email": "ana@fiap.com.br",
+        "stage": "novo"
+    },
+    {
+        "name": "Bruno",
+        "company": "GoodWe",
+        "email": "bruno@goodwe.com",
+        "stage": "contato"
+    },
+    {
+        "name": "Carla",
+        "company": "FIAP",
+        "email": "carla@fiap.com.br",
+        "stage": "ganho"
+    }
+]
